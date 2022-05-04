@@ -1,0 +1,4 @@
+rootProject.name = 'social-feeds'
+include 'member'
+include 'feed'
+
