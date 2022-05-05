@@ -1,0 +1,9 @@
+type Member {
+    saveMember(saveMemberDto : MemberInput) : Boolean
+}
+
+input MemberInput {
+    email : String!
+    name : String!
+    password : String!
+}

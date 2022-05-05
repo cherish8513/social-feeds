@@ -1,0 +1,3 @@
+dependencies {
+    implementation('com.graphql-java-kickstart:graphql-java-tools:12.0.2')
+}

@@ -1,0 +1,8 @@
+type Login {
+    login(loginDto : LoginInput) : Boolean
+}
+
+input LoginInput {
+    email : String!
+    password : String!
+}
